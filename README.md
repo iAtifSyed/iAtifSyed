@@ -1,4 +1,5 @@
-![Welcome Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Tech+and+Nature+World)
+
+
   <h1 align="center">
   <img src="https://raw.githubusercontent.com/atifsyeds/atifsyeds/master/name.svg" alt="Atif Syeds" />
 </h1>
@@ -43,11 +44,10 @@ Beyond technology, I'm deeply passionate about **organic agriculture** and **per
 
 ## 🛠️ **Featured Projects**
 ### 💻 **Tech Projects**
-- **[VisaTrack Advanced](https://github.com/atifsyeds/VisaTrack):** A WordPress plugin for visa tracking with dynamic features.  
-  _Tech Stack:_ PHP, Tailwind CSS, JavaScript.  
-
 - **[ImgScrap](https://github.com/atifsyeds/ImgScrap):** Python-based script to scrape mobile phone images from GSMArena.  
-  _Tech Stack:_ Python, BeautifulSoup.  
+  _Tech Stack:_ Python, BeautifulSoup.
+
+  
 
 ### 🌾 **Agricultural Initiatives**
 - **GreenFarms Initiative:** Promoting eco-friendly agricultural practices.  
