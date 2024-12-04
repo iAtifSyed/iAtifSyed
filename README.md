@@ -4,6 +4,10 @@
   <img src="https://raw.githubusercontent.com/atifsyeds/atifsyeds/master/name.svg" alt="Atif Syeds" />
 </h1>
 
+![iAtifSyed GIF](https://github.com/iAtifSyed/iAtifSyed/blob/main/iAtifSyed.gif)
+
+
+
 # 💻🌟 Atif Syed | Code, Cultivate, Innovate
 
 ## 🏷️ About Me  
