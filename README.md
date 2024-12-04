@@ -3,11 +3,8 @@
   <h1 align="center">
   <img src="https://raw.githubusercontent.com/atifsyeds/atifsyeds/master/name.svg" alt="Atif Syeds" />
 </h1>
-</h1>
-# 💻🌟 **Atif Syed** | _Code, Cultivate, Innovate_
-🔗 [Portfolio](https://your-portfolio-link.com) • 🌍 [LinkedIn](https://linkedin.com/in/yourprofile) • 📧 [Email Me](mailto:your-email@gmail.com)
 
----
+# 💻🌟 Atif Syed | Code, Cultivate, Innovate
 
 ## 🏷️ About Me  
 Hi there! I'm **Atif Syed**, a multi-talented developer and organic agriculture advocate. My expertise spans across **technology** and **sustainability**, blending code with care for the planet.  
