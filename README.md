@@ -4,7 +4,9 @@
   <img src="https://raw.githubusercontent.com/atifsyeds/atifsyeds/master/name.svg" alt="Atif Syeds" />
 </h1>
 
-# 💻 Code, 🌱 Cultivate, 🌟 Innovate
+
+<h2 align="center" style="font-size: 36px;">💻 Code, 🌱 Cultivate, 🌟 Innovate</h2>
+
 
 ## 🏷️ About Me  
 Hi there! I'm **Atif Syed**, a multi-talented developer and organic agriculture advocate. My expertise spans across **technology** and **sustainability**, blending code with care for the planet.  
