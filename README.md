@@ -17,6 +17,11 @@ From creating powerful **eCommerce solutions** to practicing **permaculture**, I
 - 🍼 **Proud Father:** Blessed with my son, **Sultan Mustafa**, born on **01 January 2024**.  
 
 ---
+## 🐍 **Snake Game**
+
+![snake game](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
 
 ## 💻 **Technical Expertise**
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
@@ -53,8 +58,13 @@ Beyond technology, I'm deeply passionate about **organic agriculture** and **per
 ---
 
 ## 📈 **GitHub Stats**
-![Atif Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atifsyeds&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atifsyeds&layout=compact&theme=radical)  
+
+### **Profile Stats**
+![Atif Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iatifsyed&show_icons=true&theme=radical)
+
+### **Top Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iatifsyed&layout=compact&theme=radical)
+
 
 ---
 
