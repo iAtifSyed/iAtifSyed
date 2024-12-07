@@ -22,7 +22,7 @@ From creating powerful **eCommerce solutions** to practicing **permaculture**, I
 - 🍼 **Proud Father:** Blessed with my son, **Sultan Mustafa**, born on **01 January 2024**.  
 
 ---
-## 🐍 **Snake Game**
+<h3 align="center" style="font-size: 36px;">🐍 **Snake**</h3>
 
 ![snake game](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
