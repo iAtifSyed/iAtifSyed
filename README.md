@@ -64,11 +64,11 @@ Beyond technology, I'm deeply passionate about **organic agriculture** and **per
 
 ## 📈 **GitHub Stats**
 
-### **Profile Stats**
-![Atif Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iatifsyed&show_icons=true&theme=radical)
+### **Profile Stats  &  Top Languages** 
 
-### **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iatifsyed&layout=compact&theme=radical)
+![Atif Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iatifsyed&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iatifsyed&layout=compact&theme=radical)
+
+
 
 
 ---
