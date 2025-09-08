@@ -37,6 +37,7 @@ From creating powerful **eCommerce solutions** to practicing **permaculture**, I
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Python](https://img.shields.io/badge/python-3DDC84?style=flat-square&logo=python&logoColor=white)
 
 ---
 
