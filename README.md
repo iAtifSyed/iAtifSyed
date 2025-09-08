@@ -22,7 +22,7 @@ From creating powerful **eCommerce solutions** to practicing **permaculture**, I
 - 🍼 **Proud Father:** Blessed with my son, **Sultan Mustafa**, born on **01 January 2024**.  
 
 ---
-<h3 align="center" style="font-size: 36px;">🐍 **Snake**</h3>
+<h3 align="center" style="font-size: 36px;">🐍 Snake</h3>
 
 ![snake game](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
@@ -46,7 +46,6 @@ From creating powerful **eCommerce solutions** to practicing **permaculture**, I
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
 [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
 [![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)](#)
