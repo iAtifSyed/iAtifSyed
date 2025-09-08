@@ -37,7 +37,24 @@ From creating powerful **eCommerce solutions** to practicing **permaculture**, I
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Python](https://img.shields.io/badge/python-3DDC84?style=flat-square&logo=python&logoColor=white)
+[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
+[![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
+[![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
+[![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)](#)
+
+
+
+
+
 
 ---
 
@@ -82,9 +99,40 @@ Beyond technology, I'm deeply passionate about **organic agriculture** and **per
 ---
 
 ## 🔗 **Let’s Connect**
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://your-portfolio-link.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://iatifsyed.github.io)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iatifsyed)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:atifyseddev@gmail.com)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/atifsyed)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff)](#)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](#)
+[![Monster](https://img.shields.io/badge/Monster-6D4C9F?logo=monster&logoColor=fff)](#)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#)
+[![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?logo=deviantart&logoColor=fff)](#)
+[![Flickr](https://img.shields.io/badge/Flickr-0063DC?logo=flickr&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/iAtifSyed/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](#)
+[![Quora](https://img.shields.io/badge/Quora-B92B27?logo=quora&logoColor=fff)](#)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](#)
+[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=white)](#)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
+[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](#)
+[![Tumblr](https://img.shields.io/badge/Tumblr-36465D?logo=tumblr&logoColor=fff)](#)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://we.me/+923004860591)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](httsp://x.com/AtifSyeds)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)
+[![Soundcloud](https://img.shields.io/badge/Soundcloud-FF3300?logo=Soundcloud&logoColor=white)](#)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)
+[![TuneIn](https://img.shields.io/badge/TuneIn-14D8CC?logo=TuneIn&logoColor=white)](#)
+[![LastFM](https://img.shields.io/badge/last.fm-D51007?logo=last.fm&logoColor=white)](#)
+
+
+
+
+
 
 ---
 
