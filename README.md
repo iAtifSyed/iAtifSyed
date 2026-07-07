@@ -4,9 +4,9 @@
   <img src="https://raw.githubusercontent.com/atifsyeds/atifsyeds/master/name.svg" alt="Atif Syeds" />
 </h1>
 
-<h2 align="center" style="font-size: 36px;">💻 Code, 🌱 Cultivate, 🌟 Innovate</h2>
+<h2 align="center" style="font-size: 36px;">👨‍💻 Founder • 🏗️ Software Architect • ⚙️ Product Engineer</h2>
 <p>
-  
+
 </p>
 
 
