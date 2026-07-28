@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Founder+%40+CodeFurnace+Labs;Software+Architect;Full+Stack+Engineer;Enterprise+Application+Developer;AI+Native+Systems+Builder;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Founder+%40++SmartCampuserp;Founder+%40+Global+%40+Commerce+%40+Pro;Founder+%40+CodeFurnace+Labs;Software+Architect;Full+Stack+Engineer;Enterprise+Application+Developer;AI+Native+Systems+Builder;Open+Source+Contributor" />
 </p>
 
 <p align="center">
