@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/atifsyeds/atifsyeds/master/name.svg" alt="Atif Syed" />
 </h1>
@@ -201,9 +200,6 @@ I believe technology and sustainability should work together to create a better 
 <a href="https://x.com/AtifSyeds"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/></a>
 
 </p>
-
----
-
 <p align="center">
 ⭐ If you like my work, consider following my GitHub profile and starring my repositories.
 </p>
