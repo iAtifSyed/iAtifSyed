@@ -30,91 +30,245 @@ I'm **Atif Syed**, a **Software Architect**, **Full Stack Engineer**, and **Foun
 
 I enjoy transforming complex business ideas into production-ready products using modern technologies and clean software architecture.
 
-### 🚀 Currently Building
 
-- 🏫 **SmartCampus ERP** – Complete Education Management System
-- 🧠 **Genesis Engineering System (GES)** – AI Native Engineering Platform
-- 🔐 **Genesis Vault** – Zero-Knowledge Secure Storage Platform
-- 📊 **DSR Management System** – Government Reporting Platform
-- 🛒 Professional WordPress Plugins & WooCommerce Solutions
+## 🚀 Currently Building
+- 🏫 SmartCampus ERP — Enterprise Education Management Platform
+- 🧠 Genesis Engineering System (GES) — AI-Native Software Engineering Platform
+- 🔐 Genesis Vault — Zero-Knowledge Secure Digital Vault
+- 📊 DSR Management System — Government Reporting & Monitoring Platform
+- 🌐 WP Studio — WordPress Backup, Migration & Deployment Platform
+- 🛒 Sultan Tradings Enterprise AI — AI-Powered eCommerce Operations Platform
+- 📦 Enterprise eBay Listing Engine
+- 🎨 Enterprise Etsy Listing Engine
+- 📈 Marketplace Intelligence Engine
+- 🤖 AI Product Research & Recommendation Engine
+- 💼 Enterprise Business Automation Platform
+
+
 
 ---
 
 # 💻 Tech Stack
 
-<p align="center">
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,vite,electron,tailwind,nodejs,python,php,fastapi,wordpress,mysql,sqlite,postgres,supabase,prisma,docker,git,github,vscode,html,css,npm" />
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+### 🖥️ Desktop
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🚀 DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🤖 AI
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLM_Applications-7C3AED?style=for-the-badge)
+![AI Automation](https://img.shields.io/badge/AI_Automation-0EA5E9?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10B981?style=for-the-badge)
 </p>
 
 ---
 
 # 🏛️ Architecture & Engineering
 
-✔ Enterprise Software Development
+- Enterprise Software Architecture
+- AI-Native System Design
+- Clean Architecture & SOLID Principles
+- Domain-Driven Design (DDD)
+- Design Patterns
+- RESTful API Development
+- Authentication & Authorization
+- Electron Desktop Applications
+- SaaS Platform Development
+- Licensing & Activation Systems
+- Database Modeling & Optimization
+- CI/CD & DevOps
+- Offline-First Applications
+- Technical Documentation
 
-✔ Software Architecture
+---
+# 🎯 Core Expertise
 
-✔ AI Native Systems
+- Enterprise Software Development
+- Full Stack Web Applications
+- Desktop Application Development
+- AI Integration & Automation
+- WordPress & WooCommerce Development
+- SaaS Architecture
+- ERP & Business Systems
+- Government Information Systems
+- Developer Tools
+- Prompt Engineering
+---
 
-✔ Clean Architecture
+## 🚀 Featured Projects
 
-✔ SOLID Principles
+### 🏫 SmartCampus ERP
+Enterprise Education ERP featuring admissions, attendance, examinations, finance, HR, transport, library, and student lifecycle management.
 
-✔ Design Patterns
+---
 
-✔ REST APIs
+### 🧠 Genesis Engineering System (GES)
+AI-native engineering environment for software generation, architecture, documentation, governance, and enterprise automation.
 
-✔ Authentication & Authorization
+---
 
-✔ Electron Desktop Applications
+### 🔐 Genesis Vault
+Privacy-first encrypted storage platform implementing zero-knowledge architecture for secure document management.
+
+---
+
+### 🌐 WP Studio
+Professional WordPress backup, migration, deployment, cloning, and recovery toolkit for agencies and developers.
+
+---
+
+### 📊 DSR Management System
+Modern reporting platform built for structured workflows, approvals, analytics, and operational monitoring.
+
+---
+
+### 🛒 Sultan Tradings Enterprise AI
+Integrated AI platform supporting marketplace research, listing optimization, catalog management, fulfillment workflows, supplier intelligence, and analytics.
+
+---
+
+### 📦 Enterprise Listing Engines
+AI-assisted listing generation systems for eBay and Etsy with SEO optimization and marketplace policy awareness.
+
+---
+
+### 🖥 Desktop Applications
+Cross-platform desktop software built with Electron, TypeScript, React, SQLite, and modern UI architecture.
+
+---
+
+### 🔌 WordPress Ecosystem
+Professional plugins, WooCommerce extensions, custom themes, licensing systems, activation services, and automation solutions.
+
+---
+
+# 💻 What I Build
+
+✔ Enterprise Software
 
 ✔ SaaS Platforms
 
-✔ Licensing & Activation Systems
+✔ AI Applications
 
-✔ Database Design
+✔ AI Agents
+
+✔ Desktop Applications
+
+✔ WordPress Plugins
+
+✔ WooCommerce Extensions
+
+✔ Government Information Systems
+
+✔ ERP Solutions
+
+✔ CRM Systems
+
+✔ Workflow Automation
+
+✔ Marketplace Intelligence
+
+✔ Prompt Engineering Systems
+
+✔ Developer Tools
+
+✔ Internal Business Platforms
+
+✔ REST APIs
+
+✔ Authentication Systems
+
+✔ Licensing Platforms
+
+✔ Data Synchronization
+
+✔ Offline-First Applications
 
 ✔ CI/CD Pipelines
 
-✔ Offline First Applications
-
 ✔ Technical Documentation
 
----
+# 🧠 Engineering Principles
 
-# 🚀 Featured Projects
+• Clean Architecture
+• SOLID Principles
+• Domain-Driven Design
+• Modular Design
+• Design Patterns
+• Type Safety
+• Scalability
+• Maintainability
+• Performance
+• Security by Design
+• Privacy First
+• Developer Experience
+• Automation First
+• AI-Assisted Engineering
 
-## 🏫 SmartCampus ERP
+# 🚀 Technology Focus
 
-Enterprise-level Education Management Platform built with React, Electron, TypeScript, SQLite and modern architecture.
+Frontend
+- React
+- TypeScript
+- Next.js
+- TailwindCSS
+- Vite
 
----
+Backend
+- Node.js
+- Python
+- FastAPI
+- PHP
 
-## 🧠 Genesis Engineering System (GES)
+Desktop
+- Electron
+- SQLite
 
-AI Native Engineering Operating System focused on enterprise software generation, governance and automation.
+Database
+- PostgreSQL
+- MySQL
+- SQLite
+- Supabase
+- Prisma
 
----
+DevOps
+- Docker
+- GitHub Actions
+- Git
+- Linux
 
-## 🔐 Genesis Vault
-
-Zero-Knowledge encrypted digital vault with enterprise-grade security.
-
----
-
-## 📊 DSR Management System
-
-Government reporting and monitoring platform with modern dashboard and workflow automation.
-
----
-
-## 🛒 WooCommerce Ecosystem
-
-Professional plugins, custom themes, automation tools and enterprise eCommerce solutions.
-
----
+AI
+- GPT
+- Prompt Engineering
+- AI Automation
+- AI Workflows
+- LLM Applications
+- 
 
 # 📈 GitHub Statistics
 
@@ -153,7 +307,7 @@ Professional plugins, custom themes, automation tools and enterprise eCommerce s
 
 ---
 
-# 🌱 Beyond Coding
+# 🌱 Beyond Software
 
 Technology is my profession, but sustainability is my passion.
 
@@ -163,6 +317,7 @@ I'm also actively involved in:
 - 🌾 Permaculture
 - 🌍 Sustainable Farming
 - 🌱 Nature Conservation
+- 🌍 Renewable Technologies
 - 🚜 Rural Development
 
 I believe technology and sustainability should work together to create a better future.
@@ -171,19 +326,38 @@ I believe technology and sustainability should work together to create a better 
 
 # 🌟 Entrepreneurship
 
-- Founder of **CodeFurnace Labs**
-- Building AI-powered software products
-- Enterprise Software Consultant
-- WordPress & WooCommerce Specialist
-- SaaS Product Developer
-- Desktop Application Developer
-- Full Stack Engineer
+Founder of **CodeFurnace Labs**, where I design and build enterprise software, AI-powered applications, SaaS products, desktop software, WordPress solutions, and business automation platforms.
+---
+
+# ⚙️ Development Philosophy
+
+- Build for maintainability.
+- Design for scalability.
+- Automate repetitive work.
+- Keep architecture simple.
+- Security by default.
+- Documentation is part of the product.
+
+---
+
+# 🌍 Open Source
+
+I enjoy building open-source tools that help developers automate workflows, improve productivity, and build better software.
+
+My repositories include:
+
+- Enterprise Applications
+- Desktop Software
+- AI Tools
+- WordPress Plugins
+- WooCommerce Extensions
+- Developer Utilities
 
 ---
 
 # 💬 Favourite Quote
 
-> **"Great software is not written. It is architected."**
+> **"Software isn't just code—it's architecture, systems thinking, and solving real-world problems."**
 
 ---
 
